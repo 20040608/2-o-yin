@@ -1,0 +1,36 @@
+.container {
+  width: 1000px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.header-logo {
+  text-align: center;
+}
+
+.header-form {
+  text-align: center;
+}
+
+.header-span {
+  margin-right: 10px;
+}
+
+.header-button {
+  margin-left: 5px;
+}
+
+.header-item {
+  padding-top: 50px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  text-align: center;
+}
+
+.header-text {
+  margin: 0;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 25px;
+}
