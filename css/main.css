@@ -28,6 +28,12 @@
   text-align: center;
 }
 
+.header-item--inner {
+  padding: 50px;
+  border: 1px solid #000;
+  border-radius: 5%;
+}
+
 .header-text {
   margin: 0;
   font-weight: 700;
